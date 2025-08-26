@@ -32,10 +32,8 @@
 
 
 ###
-<div style="display:flex; justify-content:space-between;">
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindYari&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="WindYari's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindYari&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
-</div>
 ###
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
