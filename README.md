@@ -9,15 +9,11 @@
 ###
 
 <p align="left">  
-𝐈’𝐦 𝐚 𝐛𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐢𝐧 𝐒𝐮𝐢 𝐚𝐧𝐝 𝐒𝐨𝐥𝐚𝐧𝐚, 𝐰𝐢𝐭𝐡 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐍𝐅𝐓 𝐠𝐚𝐦𝐞𝐬, 𝐦𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞𝐬, 𝐃𝐞𝐟𝐢 𝐚𝐧𝐝 𝐞𝐯𝐞𝐧 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐦𝐞𝐭𝐚𝐯𝐞𝐫𝐬𝐞 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬.  
-𝐈 𝐭𝐫𝐮𝐥𝐲 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐬𝐤𝐢𝐥𝐥𝐞𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐥𝐢𝐤𝐞 𝐦𝐲𝐬𝐞𝐥𝐟 𝐜𝐚𝐧 𝐛𝐫𝐢𝐧𝐠 𝐫𝐞𝐚𝐥 𝐯𝐚𝐥𝐮𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭. 
-𝐈𝐟 𝐭𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐚𝐧𝐲 𝐨𝐩𝐞𝐧𝐢𝐧𝐠 𝐝𝐞𝐯 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭, 𝐈’𝐝 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐞 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫.
-𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐭𝐨 𝐡𝐞𝐚𝐫𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮!
+<p>𝐈’𝐦 𝐚 𝐛𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐢𝐧 𝐒𝐮𝐢 𝐚𝐧𝐝 𝐒𝐨𝐥𝐚𝐧𝐚, 𝐰𝐢𝐭𝐡 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐍𝐅𝐓 𝐠𝐚𝐦𝐞𝐬, 𝐦𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞𝐬, 𝐃𝐞𝐟𝐢 𝐚𝐧𝐝 𝐞𝐯𝐞𝐧 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐦𝐞𝐭𝐚𝐯𝐞𝐫𝐬𝐞 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬.  </p>
+<p>𝐈 𝐭𝐫𝐮𝐥𝐲 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐭𝐡𝐚𝐭 𝐚 𝐬𝐤𝐢𝐥𝐥𝐞𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐥𝐢𝐤𝐞 𝐦𝐲𝐬𝐞𝐥𝐟 𝐜𝐚𝐧 𝐛𝐫𝐢𝐧𝐠 𝐫𝐞𝐚𝐥 𝐯𝐚𝐥𝐮𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭. </p>
+<p>𝐈𝐟 𝐭𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐚𝐧𝐲 𝐨𝐩𝐞𝐧𝐢𝐧𝐠 𝐝𝐞𝐯 𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐢𝐧 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭, 𝐈’𝐝 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐚𝐧𝐝 𝐜𝐫𝐞𝐚𝐭𝐞 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐚𝐦𝐚𝐳𝐢𝐧𝐠 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫.</p>
+<p>𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐭𝐨 𝐡𝐞𝐚𝐫𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮!</p>
 </p>
-
-###
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Laurent.Isaac-Laurent&left_color=darkkhaki"  />
-###
 
 <h2 font-weight="bold">Ꚃ𝓀𝒾𝓁𝓁𝓈</h2>
 <table align="center">
@@ -57,12 +53,18 @@
 
 ###
 
+<h2 font-weight="bold">ᑕ𝑜𝓃𝓉𝒶𝒸𝓉</h2>
+
+###
+
+###
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
 </div>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Laurent.Isaac-Laurent&left_color=darkkhaki"  />
 ###
 
