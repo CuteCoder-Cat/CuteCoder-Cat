@@ -28,13 +28,12 @@
 
 ###
 
-<p align="left">I am a Senior Full-Stack Developer and Blockchain Engineer with extensive experience building scalable web applications and secure decentralized solutions using technologies like React, Node.js, Solidity, and Ethereum. I specialize in designing end-to-end systems that integrate modern front-end interfaces with robust back-end and blockchain architectures.</p>
-
-
-###
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindYari&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="WindYari's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindYari&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
-###
+<p align="left">I’ɱ α blockcիαiղ dᥱvᥱlo⍴ᥱɾ s⍴ᥱciαliⱬiղဌ iղ Sᴜi αղd Solαղα, ⍵i𝚝ի ᥱx𝚝ᥱղsivᥱ ᥱx⍴ᥱɾiᥱղcᥱ bᴜildiղဌ NFT ဌαɱᥱs, ɱαɾkᥱ𝚝⍴lαcᥱs, Dᥱ⨍i αղd ᥱvᥱղ iղ𝚝ᥱဌɾα𝚝iղဌ ɱᥱ𝚝αvᥱɾsᥱ ⨍ᥱα𝚝ᴜɾᥱs.  
+I 𝚝ɾᴜlỿ bᥱliᥱvᥱ 𝚝իα𝚝 α skillᥱd dᥱvᥱlo⍴ᥱɾ likᥱ ɱỿsᥱl⨍ cαղ bɾiղဌ ɾᥱαl vαlᴜᥱ 𝚝o ỿoᴜɾ ⍴ɾojᥱc𝚝. 
+I⨍ 𝚝իᥱɾᥱ αɾᥱ αղỿ o⍴ᥱղiղဌ dᥱv ⍴osi𝚝ioղ iղ 𝚝իis ⍴ɾojᥱc𝚝, 
+I'd lovᥱ 𝚝o collαboɾα𝚝ᥱ αղd cɾᥱα𝚝ᥱ soɱᥱ𝚝իiղဌ αɱαⱬiղဌ 𝚝oဌᥱ𝚝իᥱɾ.  
+Lookiղဌ ⨍oɾ⍵αɾd 𝚝o իᥱαɾiղဌ ⨍ɾoɱ ỿoᴜ!
+</p>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table align="center">
