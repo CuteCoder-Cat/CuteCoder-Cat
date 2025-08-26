@@ -2,6 +2,10 @@
 
 <h1 align="center">𝐻𝑒𝓁𝓁𝑜, 𝐼 '𝓂 𝒶 𝐹𝓊𝓁𝓁𝒮𝓉𝒶𝒸𝓀 𝒶𝓃𝒹 𝐵𝓁𝑜𝒸𝓀𝒸𝒽𝒶𝒾𝓃 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇</h1>
 
+<div align="center">
+  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h2 font-weight="bold">❄ᗩ𝒷𝑜𝓊𝓉 ൱𝑒</h2>
 
 ###
