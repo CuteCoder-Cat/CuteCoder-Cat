@@ -56,7 +56,7 @@
 <h2 font-weight="bold">ᑕ𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 ###
-
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Laurent.Isaac-Laurent&left_color=darkkhaki"  /></p>
 ###
 
 <div align="center">
@@ -65,6 +65,4 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
 </div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Laurent.Isaac-Laurent&left_color=darkkhaki"  />
-###
 
