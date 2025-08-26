@@ -30,66 +30,48 @@
 
 <p align="left">I am a Senior Full-Stack Developer and Blockchain Engineer with extensive experience building scalable web applications and secure decentralized solutions using technologies like React, Node.js, Solidity, and Ethereum. I specialize in designing end-to-end systems that integrate modern front-end interfaces with robust back-end and blockchain architectures.</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-original.svg" height="40" alt="backbonejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="40" alt="cakephp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=WindYari&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" alt="WindYari's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindYari&layout=compact&hide_border=true" /> |
+| ------------- | ------------- |
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
+<table align="center">
+    <tr>
+          <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/free/png-64/free-blockchain-4502244-3729699.png" width="64" height="64">Blockchain</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="64" height="74">Python</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="64" height="64">JavaScript</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="64" height="64">TypeScript</td>
+          <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/free/png-64/free-solidity-11796990-9632843.png" width="64" height="64">Solidity</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=rust" width="64" height="64">Rust</td>
+     </tr>
+    <tr>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="64" height="64">React</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="64" height="64">Next.js</td>
+          <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/free/png-64/free-android-247-1175275.png" width="64" height="64">Android</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="64" height="64">Tailwind</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" width="64" height="64">Bootstrap</td>
+          <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="64" height="64">Sass</td>
+    </tr>
+      <tr>        
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=selenium" width="64" height="64">Selenium</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="64" height="64">Django</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="64" height="64">GraphQL</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="64" height="64">MongoDB</td>
+          <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" width="64" height="64">PostgreSQL</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="64" height="64">MySQL</td>
+     </tr>
+      <tr>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="64" height="64">AWS</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="64" height="64">Nginx</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="64" height="64">Docker</td>
+          <td align="center" width="100"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="64" height="64">Git</td>
+          <td align="center" width="100"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="64" height="64">Github</td>
+          <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="64" height="64">VSCode</td>
+     </tr>
+  </table>
 
-###
 
-<div align="center">
-  🥰 ✨ Available ✨
-</div>
 
-###
