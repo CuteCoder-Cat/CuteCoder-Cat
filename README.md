@@ -53,7 +53,7 @@
 
 ###
 
-<h2 font-weight="bold">ᑕ𝑜𝓃𝓉𝒶𝒸𝓉</h2>
+<h2 font-weight="bold">✨ᑕ𝑜𝓃𝓉𝒶𝒸𝓉</h2>
 
 ###
 <div align="center">
