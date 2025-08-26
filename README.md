@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Laurent.Isaac-Laurent&left_color=darkkhaki"  />
-</div>
-
 ###
 
 <h1 align="center">𝐻𝑒𝓁𝓁𝑜, 𝐼 '𝓂 𝒶 𝐹𝓊𝓁𝓁𝒮𝓉𝒶𝒸𝓀 𝒶𝓃𝒹 𝐵𝓁𝑜𝒸𝓀𝒸𝒽𝒶𝒾𝓃 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇</h1>
 
 ###
 
-<h2 font-weight="bold">**ᗩ𝒷𝑜𝓊𝓉 ൱𝑒**</h2>
+<h2 font-weight="bold">ᗩ𝒷𝑜𝓊𝓉 ൱𝑒</h2>
 
 ###
 
@@ -19,7 +15,11 @@
 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐭𝐨 𝐡𝐞𝐚𝐫𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮!
 </p>
 
-<h2 font-weight="bold">**𝙨𝗞𝖏𝗹𝗹𝙨**</h2>
+###
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Laurent.Isaac-Laurent&left_color=darkkhaki"  />
+###
+
+<h2 font-weight="bold">Ꚃ𝓀𝒾𝓁𝓁𝓈</h2>
 <table align="center">
     <tr>
           <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/free/png-64/free-blockchain-4502244-3729699.png" width="64" height="64">Blockchain</td>
