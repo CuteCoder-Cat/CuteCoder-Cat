@@ -1,9 +1,160 @@
 ###
 
+<!-- Inline SVG banner (no <img> tag) -->
 <p align="center">
-  <!-- 3D animated banner -->
-  <img src="./blockchain-banner.svg" alt="Full-Stack & Blockchain Engineer — Sui • Solana • DeFi • NFTs" />
+<svg width="100%" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Full-Stack & Blockchain Engineer — 3D Neon Banner</title>
+  <desc id="desc">Animated neon hex grid with isometric cubes and blockchain-themed title rendered via SVG paths and gradients.</desc>
+
+  <defs>
+    <!-- Deep-space animated background -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f1f">
+        <animate attributeName="stop-color" values="#0a0f1f;#0b0e2b;#0a0f1f" dur="14s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#101a33">
+        <animate attributeName="stop-color" values="#101a33;#131f45;#101a33" dur="14s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Aurora haze -->
+    <radialGradient id="aurora" cx="30%" cy="25%" r="80%">
+      <stop offset="0%" stop-color="#4dd0e1" stop-opacity="0.42">
+        <animate attributeName="stop-color" values="#4dd0e1;#7c4dff;#00e5ff;#4dd0e1" dur="18s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Hex grid pattern (built from a path) -->
+    <pattern id="hexGrid" width="60" height="34.64" patternUnits="userSpaceOnUse" patternTransform="skewX(-20)">
+      <!-- Hexagon as a single path -->
+      <path d="M0,17.32 L15,0 L45,0 L60,17.32 L45,34.64 L15,34.64 Z"
+            fill="none" stroke="#66fff5" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <!-- Neon glow filter -->
+    <filter id="neon">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Moving sheen mask across title -->
+    <linearGradient id="sheenGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="white" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="white" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="sheenMask">
+      <rect id="sheenRect" x="-40%" y="0" width="40%" height="100%" fill="url(#sheenGrad)">
+        <animate attributeName="x" values="-40%;140%" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+
+    <!-- Isometric cube faces (gradients) -->
+    <linearGradient id="cubeTop" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ff"/>
+      <stop offset="1" stop-color="#2af"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0cf"/>
+      <stop offset="1" stop-color="#058"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38f"/>
+      <stop offset="1" stop-color="#0af"/>
+    </linearGradient>
+  </defs>
+
+  <!-- BACKGROUND -->
+  <rect width="1600" height="420" fill="url(#bgGrad)"/>
+  <rect width="1600" height="420" fill="url(#aurora)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -40 -12; 0 0" dur="20s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- HEX GRID (parallax) -->
+  <g opacity="0.85">
+    <rect width="1600" height="420" fill="url(#hexGrid)"/>
+    <g opacity="0.28">
+      <rect width="1600" height="420" fill="url(#hexGrid)">
+        <animateTransform attributeName="transform" type="translate" values="0,0; 22,12; 0,0" dur="16s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- FLOATING ISO CUBES made purely with <path> -->
+  <!-- Cube helper: three faces from a central top rhombus -->
+  <g opacity="0.9" filter="url(#neon)">
+    <!-- Cube 1 -->
+    <g transform="translate(260 300)">
+      <!-- top -->
+      <path d="M0,-40 L40,-20 L0,0 L-40,-20 Z" fill="url(#cubeTop)"/>
+      <!-- left -->
+      <path d="M-40,-20 L0,0 L0,38 L-40,18 Z" fill="url(#cubeLeft)"/>
+      <!-- right -->
+      <path d="M40,-20 L0,0 L0,38 L40,18 Z" fill="url(#cubeRight)"/>
+      <!-- subtle shimmer -->
+      <path d="M-25,-22 L0,-10 L0,8 L-25,-4 Z" fill="#fff" opacity="0.08"/>
+    </g>
+
+    <!-- Cube 2 -->
+    <g transform="translate(1340 120) scale(0.9)">
+      <path d="M0,-40 L40,-20 L0,0 L-40,-20 Z" fill="url(#cubeTop)"/>
+      <path d="M-40,-20 L0,0 L0,38 L-40,18 Z" fill="url(#cubeLeft)"/>
+      <path d="M40,-20 L0,0 L0,38 L40,18 Z" fill="url(#cubeRight)"/>
+      <path d="M-25,-22 L0,-10 L0,8 L-25,-4 Z" fill="#fff" opacity="0.08"/>
+    </g>
+
+    <!-- Cube 3 -->
+    <g transform="translate(980 280) scale(1.1)">
+      <path d="M0,-40 L40,-20 L0,0 L-40,-20 Z" fill="url(#cubeTop)"/>
+      <path d="M-40,-20 L0,0 L0,38 L-40,18 Z" fill="url(#cubeLeft)"/>
+      <path d="M40,-20 L0,0 L0,38 L40,18 Z" fill="url(#cubeRight)"/>
+      <path d="M-25,-22 L0,-10 L0,8 L-25,-4 Z" fill="#fff" opacity="0.08"/>
+    </g>
+  </g>
+
+  <!-- TITLE (neon) -->
+  <g filter="url(#neon)">
+    <!-- Outline via path text conversion alternative: we’ll use <text> for brevity;
+         if you need paths only, tell me and I’ll provide a converted path set. -->
+    <text x="50%" y="52%" text-anchor="middle"
+          font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="54" letter-spacing="2"
+          fill="#b3fff7" stroke="#61f7ff" stroke-width="0.6">
+      FULL-STACK & BLOCKCHAIN ENGINEER
+    </text>
+
+    <!-- Sheen overlay using mask -->
+    <g mask="url(#sheenMask)">
+      <text x="50%" y="52%" text-anchor="middle"
+            font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-size="54" letter-spacing="2" fill="white" opacity="0.9">
+        FULL-STACK & BLOCKCHAIN ENGINEER
+      </text>
+    </g>
+  </g>
+
+  <!-- SUBTITLE STACK CHIPS -->
+  <g font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+     font-size="20" fill="#9fdcff" opacity="0.92">
+    <text x="50%" y="72%" text-anchor="middle" letter-spacing="3">
+      Sui • Solana • Move • Anchor • Foundry • DeFi • NFTs • Walrus • SEAL • Smart Contracts • Wallets
+    </text>
+  </g>
+
+  <!-- HANDLE -->
+  <g font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#73e8ff" opacity="0.9">
+    <text x="50%" y="88%" text-anchor="middle">@CuteCoder-Cat</text>
+  </g>
+</svg>
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CuteCoder-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
