@@ -4,11 +4,11 @@
   <defs>
     <!-- Moving deep-space gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0f1f">
-        <animate attributeName="stop-color" values="#0a0f1f;#0b0e2b;#0a0f1f" dur="14s" repeatCount="indefinite"></animate>
+      <stop offset="0%" stop-color="#31468bff">
+        <animate attributeName="stop-color" values="#455fb3ff;#0b0e2b;#0a0f1f" dur="14s" repeatCount="indefinite"></animate>
       </stop>
-      <stop offset="100%" stop-color="#111a33">
-        <animate attributeName="stop-color" values="#111a33;#121c3f;#111a33" dur="14s" repeatCount="indefinite"></animate>
+      <stop offset="100%" stop-color="#2a417eff">
+        <animate attributeName="stop-color" values="#203368ff;#121c3f;#111a33" dur="14s" repeatCount="indefinite"></animate>
       </stop>
     </linearGradient>
 
