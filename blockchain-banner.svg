@@ -90,13 +90,13 @@
   <!-- Title -->
   <g filter="url(#neon)">
     <text x="50%" y="52%" text-anchor="middle" font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="54" letter-spacing="2" fill="#b3fff7" stroke="#61f7ff" stroke-width="0.6">
-      FULL-STACK &amp; BLOCKCHAIN ENGINEER
+      FULL-STACK &amp; BLOCKCHAIN DEVELOPER
     </text>
 
     <!-- Sheen overlay -->
     <g mask="url(#sheenMask)">
       <text x="50%" y="52%" text-anchor="middle" font-family="Poppins, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="54" letter-spacing="2" fill="white" opacity="0.9">
-        FULL-STACK &amp; BLOCKCHAIN ENGINEER
+        FULL-STACK &amp; BLOCKCHAIN DEVELOPER
       </text>
     </g>
   </g>
