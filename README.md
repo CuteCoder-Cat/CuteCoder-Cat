@@ -1,6 +1,9 @@
 ###
 
-<h1 align="center">𝐻𝑒𝓁𝓁𝑜, 𝐼 '𝓂 𝒶 𝐹𝓊𝓁𝓁𝒮𝓉𝒶𝒸𝓀 𝒶𝓃𝒹 𝐵𝓁𝑜𝒸𝓀𝒸𝒽𝒶𝒾𝓃 𝐸𝓃𝑔𝒾𝓃𝑒𝑒𝓇</h1>
+<p align="center">
+  <!-- 3D animated banner -->
+  <img src="./blockchain-banner.svg" alt="Full-Stack & Blockchain Engineer — Sui • Solana • DeFi • NFTs" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CuteCoder-Cat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
