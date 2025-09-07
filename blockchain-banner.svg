@@ -14,12 +14,16 @@
 
     <!-- Subtle aurora layer -->
     <radialGradient id="aurora" cx="30%" cy="20%" r="80%">
-      <stop offset="0%" stop-color="#4dd0e1" stop-opacity="0.35">
-        <animate attributeName="stop-color" values="#4dd0e1;#7c4dff;#00e5ff;#4dd0e1" dur="18s" repeatCount="indefinite"></animate>
+      <stop offset="0%" stop-color="#80d8ff" stop-opacity="0.7">
+        <animate attributeName="stop-color"
+                values="#80d8ff;#b3ecff;#66ccff;#80d8ff"
+                dur="18s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="60%" stop-color="#000" stop-opacity="0"></stop>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"></stop>
+      <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+
+    
 
     <!-- Hex-ish grid pattern -->
     <pattern id="grid" width="60" height="34.64" patternUnits="userSpaceOnUse" patternTransform="skewX(-20)">
