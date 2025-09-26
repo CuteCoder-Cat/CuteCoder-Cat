@@ -5,14 +5,15 @@
   <img src="./blockchain-banner.svg" alt="Full-Stack & Blockchain Engineer — Sui • Solana • DeFi • NFTs" />
 </p>
 
-<h2 font-weight="bold">❄ᗩ𝒷𝑜𝓊𝓉 ൱𝑒</h2>
+<h2 font-weight="bold">❄About Me</h2>
 
 ###
 <p align="left">  
+  Hi, I’m Snowflake 👋<br />
 Full-stack & blockchain engineer shipping DataDAO, DeFi, and wallet UX across Sui, Solana, and EVM, rigorous data contracts, measurable UX, and production-minded code.
 </p>
 
-<h2 font-weight="bold">🌠Ꚃ𝓀𝒾𝓁𝓁𝓈</h2>
+<h2 font-weight="bold">🌠Skills</h2>
 
 ###
 
