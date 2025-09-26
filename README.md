@@ -5,7 +5,7 @@
   <img src="./blockchain-banner.svg" alt="Full-Stack & Blockchain Engineer — Sui • Solana • DeFi • NFTs" />
 </p>
 
-<h2 font-weight="bold">❄About Me</h2>
+<h1 font-weight="bold">About Me<img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px></h1>
 
 ###
 <p align="left">  
@@ -13,7 +13,7 @@
 Full-stack & blockchain engineer shipping DataDAO, DeFi, and wallet UX across Sui, Solana, and EVM, rigorous data contracts, measurable UX, and production-minded code.
 </p>
 
-<h2 font-weight="bold">🌠Skills</h2>
+<h1 font-weight="bold">Skills</h1>
 
 ###
 
