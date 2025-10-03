@@ -10,7 +10,7 @@
 ###
 <p align="left">  
   Hi, I’m Snowflake 👋<br />
-Full-stack & blockchain engineer shipping DataDAO, DeFi, and wallet UX across Sui, Solana, and EVM, rigorous data contracts, measurable UX, and production-minded code.
+Full-stack & blockchain developer building DataDAO systems, DeFi protocols, and wallet UX across Sui, Solana, and EVM. I focus on rigorous data contracts, seamless user experiences, and production-ready code.
 </p>
 
 <h1 font-weight="bold">Skills</h1>
